@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW 4 PolygonPerimetr", "HW 4\HW 4 PolygonPerimetr.csproj", "{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0BC2CF-66EC-4ADC-8FE9-E1609CDAAD02}
+	EndGlobalSection
+EndGlobal
