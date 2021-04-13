@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW 4 PolygonPerimetr", "HW 4\HW 4 PolygonPerimetr.csproj", "{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonPerimetr.Tests", "PolygonPerimetr.Tests\PolygonPerimetr.Tests.csproj", "{3DA11AF5-6F89-4F8A-BBDC-928C05EF45E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8DBF5A-03A6-4E85-9F03-BE79DBFEAC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA11AF5-6F89-4F8A-BBDC-928C05EF45E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA11AF5-6F89-4F8A-BBDC-928C05EF45E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA11AF5-6F89-4F8A-BBDC-928C05EF45E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA11AF5-6F89-4F8A-BBDC-928C05EF45E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
